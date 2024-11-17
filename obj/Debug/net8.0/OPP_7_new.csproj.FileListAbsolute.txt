@@ -1,0 +1,14 @@
+C:\Users\d3ewq\source\repos\OPP_7_new\OPP_7_new\obj\Debug\net8.0\OPP_7_new.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d3ewq\source\repos\OPP_7_new\OPP_7_new\obj\Debug\net8.0\OPP_7_new.AssemblyInfoInputs.cache
+C:\Users\d3ewq\source\repos\OPP_7_new\OPP_7_new\obj\Debug\net8.0\OPP_7_new.AssemblyInfo.cs
+C:\Users\d3ewq\source\repos\OPP_7_new\OPP_7_new\obj\Debug\net8.0\OPP_7_new.csproj.CoreCompileInputs.cache
+C:\Users\d3ewq\source\repos\OPP_7_new\OPP_7_new\bin\Debug\net8.0\OPP_7_new.exe
+C:\Users\d3ewq\source\repos\OPP_7_new\OPP_7_new\bin\Debug\net8.0\OPP_7_new.deps.json
+C:\Users\d3ewq\source\repos\OPP_7_new\OPP_7_new\bin\Debug\net8.0\OPP_7_new.runtimeconfig.json
+C:\Users\d3ewq\source\repos\OPP_7_new\OPP_7_new\bin\Debug\net8.0\OPP_7_new.dll
+C:\Users\d3ewq\source\repos\OPP_7_new\OPP_7_new\bin\Debug\net8.0\OPP_7_new.pdb
+C:\Users\d3ewq\source\repos\OPP_7_new\OPP_7_new\obj\Debug\net8.0\OPP_7_new.dll
+C:\Users\d3ewq\source\repos\OPP_7_new\OPP_7_new\obj\Debug\net8.0\refint\OPP_7_new.dll
+C:\Users\d3ewq\source\repos\OPP_7_new\OPP_7_new\obj\Debug\net8.0\OPP_7_new.pdb
+C:\Users\d3ewq\source\repos\OPP_7_new\OPP_7_new\obj\Debug\net8.0\OPP_7_new.genruntimeconfig.cache
+C:\Users\d3ewq\source\repos\OPP_7_new\OPP_7_new\obj\Debug\net8.0\ref\OPP_7_new.dll
